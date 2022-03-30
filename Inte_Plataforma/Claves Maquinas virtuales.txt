@@ -1,0 +1,53 @@
+Block modal 4.6 
+Pagination 4.6
+
+como titulo
+encuentra tu isntrumento ideal
+
+
+GUITARRA_SOLIDA : Guitarra eléctrica G&L Tribute Legacy HSS - Azul Lago Plácido $539.900
+GUITARRA_ACUSTICA: Guitarra acústica LTD LXAD100 BVNS $209.900
+GUITARRA_ELECTRICA: Pack guitarra eléctrica Freeman FULL ROCK - Negra $159.900
+
+BAJO_4: Bajo eléctrico Warwick Corvette Classic 4 cuerdas color Almond Sunburst $699.900
+BAJO_5: Bajo eléctrico de 5 cuerdas Ibanez SR505E BM $819.900
+-BAJO_ACTIVO:
+-BAJO_PASIVO:
+PIANO_C_MEDIA: Piano de cola Young Chang Y150 color Black Polish $7.799.900
+PIANO_C_ENTERA: Piano de Cola Entera Albert Weber 275c´ $9.499.900
+PIANOLA: Piano vertical Young Chang Y118 BP - incluye sillín $4.499.900
+
+B_TAMA: Batería Tama Imperialstar IE58H6W de 5 piezas color Hairline Blue $739.900
+B_PEARL: Bateria Pearl Serie Vision Birch VB825 $459.900
+B_SONOR: SONOR SET AQ2 MARTINI WHITE PEARL $390.500
+B_MAPEX: Batería 5 Piezas Mapex Pdg5294Ftcdr Mkii $629.900
+
+B_ALESIS1: Bateria Electronica Alesis TurboMesh Kit $549.900
+B_ALESIS2: BATERÍA ELECTRÓNICA ALESIS DM LITE KIT $349.900
+B_ROLAND1: Batería electrónica Roland TD-07DMK $$999.900
+B_ROLAND2: Batería electrónica Roland TD-17KV - C/ Stand MDS-COM $1.689.900
+
+Cabezal:
+
+CB_ENGL: Engl E606 Ironball Cabezal 20 vatios $589.900
+CB_MARSHALL: Marshall DSL100HR 100-watt 2-channel Cabezal $850.000
+CB_PEAVEY: Cabezal de Guitarra Peavey 6505+ 120w $1.427.466
+CB_EVH: Cabezal EVH 5150 III 100S $1.799.000
+
+CAJAS:
+
+CJ_ENGL:Engl Sovereign 100 W 2 X 12 Guitar Combo Amplificador $359.590
+CJ_MARSHALL: Marshall JVM205C JVM Series - Amplificador de guitarra 50w $480.900
+CJ_PEAVEY: Amplificador de Guitarra PEAVEY ECOUSTIC E-110 $577.990
+CJ_EVH: Amplificador EVH 5150III 50W EL34 $758.990
+
+ACCESORIOS:
+
+AUDIFONO: Audífonos Shure SRH440 $134.900
+AURICULAR: Auriculares IN EAR SAMSON ZI200 $199.900
+MONITOR: Monitor activo Samson MEDIAONE BT3 (Par) - Bluetooth $159.900
+PARLANTE: Parlante Bluetooth Bose SoundLink Revolve Plus Color Negro $319.990
+CABLE: Cable para instrumento Klotz KIK6.0PPRT - color rojo de 6 metros $21.990
+MICROFONO: Micrófono condensador Samson C05CL - incluye cable $71.990
+INTERFACE: Interface de audio Focusrite Scarlett 2i2 - 3ra Generacion $209.900
+MIXER: Mixer Allen & Heath ZEDi-10FX $439.900

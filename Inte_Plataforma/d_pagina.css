@@ -1,0 +1,68 @@
+.logo{
+    width: 10%;
+}
+#gal_foto{
+    margin-top: 2%;
+}
+#img_cg:hover{
+    transform: scale(0.9);
+    transition: all 0.5s ease;
+    border-radius: 5%;
+}
+#img_cg{
+    transition: all 0.5s ease;
+}
+
+#id_c_carrucel:hover{
+    transform: scale(0.97);
+    transition: all 0.5s ease;
+    border-radius: 1%;
+}
+
+#id_c_carrucel{
+    transition: all 0.5s ease;
+}
+
+
+#c_contacto{
+    padding-top: 5%;
+
+}
+
+#c_footer{
+    padding-top: 5%;
+    padding-bottom: -10%;
+}
+ #c_nosotros{
+     padding-top: 5%;
+     bottom: 0px;
+ }
+
+ .img_nosotros{
+     padding-top: 5%;
+     padding-bottom: 5%;
+     width: 90%;
+     
+ }
+ #c_shopin{
+     margin-right: 3%;
+     margin-left: 3%;
+     margin-top: 3%;
+ }
+
+ #c_cpagina{
+     margin-top: 2%;
+     display: flex;
+     justify-content: center;
+ }
+ #c_titulo{
+    margin-top: 2%;
+    display: flex;
+    justify-content: center;
+    text-align: center;  
+ }
+ #c_infoshop{
+    justify-content: center;
+    text-align: center; 
+ }
+ 
